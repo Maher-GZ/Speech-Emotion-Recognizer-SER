@@ -14,7 +14,7 @@ The system is trained and evaluated on four different Kaggle datasets:
 Each dataset offers a unique set of emotional expressions and provides a valuable resource for training and evaluating the Speech Emotion Recognizer.
 
 ## Optimized Model 
-Editing on [Speech Emotion Recognition](https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition) on Kaggle as follows ....
+Editing on [Speech Emotion Recognition](https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition) on Kaggle as we ....
 
 -Improved the accuracy by up to 9% (from 66% to 75% in val_accuracy) and reduced the loss by 20% (from 1 to 0.8).
 
